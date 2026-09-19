@@ -13,11 +13,11 @@ Freelance AI/ML engineer based in Kerala, India. I build things that ship — RA
 
 | Project | What it does | Stack |
 |---|---|---|
-| **AI Banking Agent** | RAG chatbot answering banking FAQs — zero paid API cost | FAISS · Sentence-Transformers · Phi-3 (Ollama) |
-| **Contract Intelligence System** | Clause-level contract risk scoring with automatic rewriting | LegalBERT · RAG (ChromaDB) · Mistral-7B |
+| **[AI Banking Agent](https://github.com/ummerulfarook/AI_BANKING_AGENT)** | RAG chatbot answering banking FAQs — zero paid API cost | FAISS · Sentence-Transformers · Phi-3 (Ollama) |
+| **[Contract Intelligence System](https://github.com/ummerulfarook/Contract_Intelligence_System)** | Clause-level contract risk scoring with automatic rewriting | LegalBERT · RAG (ChromaDB) · Mistral-7B |
 | **[KVVA Management System](https://github.com/ummerulfarook/kvves_azhikode)** | Welfare, loans, member & auction management for a 500+ member cooperative | Django · DRF · PostgreSQL · React · Redux Toolkit |
 | **[AM-KHK Billing](https://github.com/ummerulfarook/AM-KHK)** | POS billing, inventory, and credit tracking for a wholesale vegetable merchant | Flask · SQLAlchemy · React · MUI |
-| **Staff Price Lookup** | Mobile scan-to-price app for shop staff, plus an admin management app | — |
+| **[Staff Price Lookup](https://github.com/ummerulfarook/av_company_product_lookupApp)** | Mobile scan-to-price app for shop staff, plus an admin management app | — |
 
 
 
